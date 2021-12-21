@@ -1,0 +1,10 @@
+{
+  "todoList": [
+    {
+      "name": "Learn Redux",
+      "completed": false,
+      "priority": "High",
+      "id": 2
+    }
+  ]
+}
