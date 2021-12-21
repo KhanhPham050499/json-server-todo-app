@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000'
+const BASE_URL = 'https://json-server-todo-app-demo.herokuapp.com/api'
 
 export const getApi = async (url, params, cb, cbErr) => {
         try {
